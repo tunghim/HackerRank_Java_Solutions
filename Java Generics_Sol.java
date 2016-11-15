@@ -7,7 +7,6 @@ class Printer {
         for(T i : array) {
             System.out.println(i.toString());
         }
-        
     }
 }
 
